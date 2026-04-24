@@ -8,7 +8,7 @@ Terraform has exactly **six block types**. Everything you ever write is one of t
 
 ```
 ┌─────────────┬──────────────────────────────────────────────────┐
-│   Block      │  Purpose                                         │
+│   Block     │  Purpose                                         │
 ├─────────────┼──────────────────────────────────────────────────┤
 │  resource   │  Creates/manages real infrastructure             │
 │  provider   │  Configures the cloud (AWS, GCP...)              │
